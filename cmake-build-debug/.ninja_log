@@ -1,0 +1,10 @@
+# ninja log v6
+15	838	7694321701523815	CMakeFiles/Goldwasser_Micali_Multithread.dir/base64.cpp.obj	b815a2121a4a091d
+11	3705	7694321701495841	CMakeFiles/Goldwasser_Micali_Multithread.dir/Goldwasser_Micali_Multithread.cpp.obj	7899c96320f88dc0
+4	3881	7694321701367354	CMakeFiles/Goldwasser_Micali_Multithread.dir/test.cpp.obj	fe08f057c2e41370
+3883	4716	7694321740213547	test.exe	b27910614ba9c11d
+3	283	7694329206797102	build.ninja	1d0313f184d8fe84
+7	3609	7695260038285752	CMakeFiles/Goldwasser_Micali_Multithread.dir/test.cpp.obj	fe08f057c2e41370
+3610	4438	7695260074311847	test.exe	b27910614ba9c11d
+28	7135	7695265108576520	CMakeFiles/Goldwasser_Micali_Multithread.dir/test.cpp.obj	fe08f057c2e41370
+7135	7864	7695265179641098	test.exe	b27910614ba9c11d
